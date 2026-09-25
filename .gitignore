@@ -5,3 +5,7 @@ __pycache__/
 replay_icon_test.png
 replay_icon_test2.png
 ad_badge_new.png
+last_topics_all.json
+hashes_db.json
+auditor_downloads/
+auditor_session.session

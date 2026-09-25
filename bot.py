@@ -13,9 +13,9 @@ import pyperclip
 ITERATIONS = 5                    # Сколько видео прокомментировать
 CONFIDENCE = 0.8                  # Точность поиска (0.8 - чтобы не путал с лайком)
 
-TELEGRAM_BOT_TOKEN = "8956150390:AAEFq56fEgLs4kZT2n8DwOF5YLNYNueiuwg"
+TELEGRAM_BOT_TOKEN = "8979713384:AAHOjZYO7jUJWTr3ggbYsgd4jThWXZXYtRU"
 TELEGRAM_CHAT_ID = "-1002993185724" # "Тик ток | Рабочий"
-TG_TOPIC_DATA_PATH = "/Users/danilakonovalov/.gemini/antigravity/scratch/tg_topic_bot/last_topics_all.json"
+TG_TOPIC_DATA_PATH = "/Users/danilakonovalov/.gemini/antigravity/scratch/tiktok_bot/last_topics_all.json"
 USE_TELEGRAM = True               # Измените на False, если не хотите отправлять в ТГ
 SLEEP_MAC_AFTER = False           # Отправлять ли мак в сон после работы
 
